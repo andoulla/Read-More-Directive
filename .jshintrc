@@ -1,0 +1,31 @@
+{
+    "globals": {
+        "angular":true
+    },
+    "nonew": true,
+    "curly": true,
+    "jquery": true,
+    "noarg": true,
+    "trailing": true,
+    "forin": true,
+    "white": true,
+    "noempty": true,
+    "node": true,
+    "eqeqeq": true,
+    "strict": false,
+    "undef": true,
+    "bitwise": true,
+    "immed": true,
+    "browser": true,
+    "camelcase": true,
+    "boss": true,
+    "gcl": true,
+    "nonbsp": true,
+    "freeze": true,
+    "globalstrict": true,
+    "forin": false,
+    "unused":true,
+    "latedef": "nofunc",
+    "maxerr": 100
+
+}
