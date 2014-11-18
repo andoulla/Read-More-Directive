@@ -13,9 +13,13 @@
   },
   "keywords": [
     "AngularJS",
-    "Read",
-    "more",
-    "directive"
+    "Directive",
+    "UI component",
+    "Read more",
+    "Text",
+    "Read less",
+    "show more",
+    "show less"
   ],
   "license": "MIT",
   "bugs": {
