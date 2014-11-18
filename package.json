@@ -2,7 +2,7 @@
   "author": "m.a.s",
   "name": "read-more",
   "description": "readmore",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "readmore.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
