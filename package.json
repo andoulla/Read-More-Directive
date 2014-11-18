@@ -1,7 +1,7 @@
 {
   "author": "m.a.s",
   "name": "read-more",
-  "description": "readmore",
+  "description": "An AngularJs directive that creates a read-more ui component that allows to partially display the content of model and on click expands or collapses it",
   "version": "v0.0.1",
   "main": "readmore.js",
   "scripts": {
